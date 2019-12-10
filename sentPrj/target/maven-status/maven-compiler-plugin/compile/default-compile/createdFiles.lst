@@ -1,0 +1,4 @@
+com/demoPackage/restapi/models/User.class
+com/demoPackage/restapi/resources/UserResource.class
+com/demoPackage/restapi/resources/ApplicationConfig.class
+com/demoPackage/restapi/dao/UserDAO.class

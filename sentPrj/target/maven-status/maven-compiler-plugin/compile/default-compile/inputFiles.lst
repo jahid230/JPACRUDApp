@@ -1,0 +1,6 @@
+/root/eclipse-workspace/userCurdJPA/sentPrj/src/main/java/com/demoPackage/restapi/dto/UserCreateDTO.java
+/root/eclipse-workspace/userCurdJPA/sentPrj/src/main/java/com/demoPackage/restapi/resources/ApplicationConfig.java
+/root/eclipse-workspace/userCurdJPA/sentPrj/src/main/java/com/demoPackage/restapi/dto/UserFindDTO.java
+/root/eclipse-workspace/userCurdJPA/sentPrj/src/main/java/com/demoPackage/restapi/resources/UserResource.java
+/root/eclipse-workspace/userCurdJPA/sentPrj/src/main/java/com/demoPackage/restapi/dao/UserDAO.java
+/root/eclipse-workspace/userCurdJPA/sentPrj/src/main/java/com/demoPackage/restapi/models/User.java
